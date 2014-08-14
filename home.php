@@ -19,17 +19,20 @@
                               <div style="width:70%;height:80%;border:5px solid #000;padding-left:10%;border-color: #36AE79">                    
                            
                                 
-                                        <table cellspacing="20">
+                                        <table cellspacing="">
                          
                                                 <tr>
-                                                    <td style="padding-top: 10px" id='c1'><a href="signup.php"><input type="image" src="images/signup.png " height="100" width="200"></a><hr></td>
+                                                    <td style="padding-top: 10px" id='c1'><a href="register.php"><input type="image" src="images/signup.png " height="100" width="200"></a><hr></td>
                                                     <td><p style="font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;color: #006D8C;padding-top:13%;">Here you can register your account for further logins and test sessions.</p><hr></td>
                                                 </tr>
+                                                
                                                
                                                 <tr>
-                                                    <td id="c2"><a href="signin.php"><input type="image" src="images/signin.png" height="100" width="200"></a><hr></td>
+                                                    <td id="c2"><a href="index.php"><input type="image" src="images/signin.png" height="100" width="200"></a></td>
                                                     <td><p style="font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;color: #006D8C;padding-top:12%;">Here you can directly login your account with your unique email and password.</p><hr></td>
                                                 </tr>
+                                                
+                                                
                                                 <tr>
                                                     <td id="c3"><a href="contact.php"><input type="image" src="images/contact.png" height="100" width="200"></a><hr></td>
                                                     <td><p style="font-family:  'Hoefler Text', Georgia, 'Times New Roman', serif;color: #006D8C;padding-top:12%;">If you have any query, you can contact us through mail,contact no. or postal address.</p><hr></td>
